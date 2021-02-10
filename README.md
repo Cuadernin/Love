@@ -31,3 +31,5 @@ También puede cargar el proyecto en una maquina virtual. No obstante, esta últ
 ## Nota 📝
 Puede modificar el sitio al que se hace WebScrapping pero debe buscar los atributos y etiquetas HTML que contengan el mensaje de interés (esto muy posiblemente requiera modificar el codigo). Además, para garantizar que el poema NUNCA se repita puede hacer lo mismo que se hizo con el archivo .dat pero con un archivo de texto. Las modificaciones son infinitas 🔥.
 
+** By Cuadernin **
+
