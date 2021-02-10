@@ -26,6 +26,3 @@ def poema():
     %s
     """ %(Subject,poema)
     return poema,Subject
-
-#archivo=open("song.txt","w") 
-#rchivo.write(fn)
