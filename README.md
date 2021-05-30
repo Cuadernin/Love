@@ -28,8 +28,3 @@ Correo enviado con el formato:
 Para garantizar el poema cada dia o el tiempo deseado programe una tarea con el _programador de tareas de Windows_. 
 También puede cargar el proyecto en una maquina virtual. No obstante, esta última opción depende del servicio de correo electrónico desde el cual se envia el correo. 
 
-## Nota 📝
-Puede modificar el sitio al que se hace WebScraping pero debe buscar los atributos y etiquetas HTML que contengan el mensaje de interés (esto muy posiblemente requiera modificar el codigo). Además, para garantizar que el poema NUNCA se repita puede hacer lo mismo que se hizo con el archivo .dat pero con un archivo de texto. Las modificaciones son infinitas 🔥.
-
-**By Cuadernin**
-
