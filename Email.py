@@ -15,4 +15,4 @@ with smtplib.SMTP_SSL("smtp.gmail.com",port,context=context) as server:
     server.login(email,passw)
     server.sendmail(email,recibido,msg.as_string())
     server.quit()
-print("Enviado")
+print("================== Enviado ==================")
